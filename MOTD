@@ -1,12 +1,18 @@
-Welcome to the beta version 0.2 of Speedy Skeletons, a game created by superboopa and developed by HarryDog.
+Spring is here for the Skeletons! This update contains many bug fixes and improvements, as well as some completely new features.
 
-This beta is still a work-in-progress, but its goal is to set up all basic features, such as:
+Additions:
+- New Cosmetics in the Shopping District
+- Improved Networked Hit Sounds
+- Cosmetic System Improvements
+- Developer Menu (Mobility + Kick/Freeze/Ban Guns)
+- Trusted User Items
+- Weather Cycle
+- Improved Security
 
-- Cosmetics
-- Servers
-- The Hangout Map
-- Basic Security
-- Networking Features
-- User Interfaces for Essential Features
+Bug Fixes:
+- Fixed wardrobe glitch where cosmetics would say they're enabled when they aren't (or vice versa)
+- Improved performance
+- Changed some colliders
+- Improved map loader
 
-Enjoy the prototype!
+She is watching you from above... Anyways, enjoy the update!
