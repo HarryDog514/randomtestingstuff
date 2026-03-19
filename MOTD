@@ -7,12 +7,7 @@ Additions:
 - Developer Menu (Mobility + Kick/Freeze/Ban Guns)
 - Trusted User Items
 - Weather Cycle/Day-Night Cycle (Based on UTC)
-- Improved Security
+- Quests (in Necropolis)
 - Mouth Movement
 - New rippling water
-
-Bug Fixes:
-- Fixed wardrobe glitch where cosmetics would say they're enabled when they aren't (or vice versa)
-- Fixed turning
-- Fixed Staff Tags
-- Improved map loader
+- Report Abuse through Oculus menu
