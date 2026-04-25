@@ -6,5 +6,8 @@ New Things:
 - Health System
 - Remastered Chimp Monument
 - Antimatter Guns
-- Bug fixes for the networking (avoids random disconnections)
 - Game Optimizations
+
+Patches:
+- Fixed voice chat
+- Fixed grabbing offset
